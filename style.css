@@ -1,0 +1,40 @@
+body{
+    font-size: 34px;
+}
+#container{
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    text-align: center;
+}
+#line{
+    background-color: black;
+    border: 2px solid black;
+}
+.bar{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    padding-top: 28px;
+    text-align: center;
+    height: 70px;
+    width: 100px;
+    border: 2px solid black;
+}
+@media screen and (max-width:768px){
+    #container{
+        flex-direction: row;
+    }
+    .bar{
+      justify-items: space-between;
+      flex-direction: column;
+      margin: 20px;
+      justify-content: center;
+      align-items: center;
+    }
+    .card{
+        font-size: 20px;
+        margin: 2px;
+    }
+  }
