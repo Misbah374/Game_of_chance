@@ -11,3 +11,4 @@ A basic game of chance check how lucky are you? Only for the purpose of time pas
 # Technologies_used
 HTML, CSS and JavaScript are used in developing this website.
 # Video_demonstration
+https://github.com/user-attachments/assets/7a71a5d2-b13e-403a-97d7-7720d1e708c1
