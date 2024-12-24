@@ -7,5 +7,7 @@ A basic game of chance check how lucky are you? Only for the purpose of time pas
   <li>User is not able to click on a single card more than one time</li>
   <li>Maximum score is 28 and minimum score is -7</li>
 </ul>
+
 # Technologies_used
 HTML, CSS and JavaScript are used in developing this website.
+# Video_demonstration
